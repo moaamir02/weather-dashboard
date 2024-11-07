@@ -25,7 +25,7 @@ This Weather Forecasting app provides current and 5-day weather forecasts for ci
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/weather-forecasting-app.git
+   git remote add origin https://github.com/moaamir02/weather-dashboard.git
    cd weather-forecasting-app
    ```
 
