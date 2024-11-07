@@ -45,7 +45,7 @@ VITE_JSON_SERVER_URL=http://localhost:3000
 4. **Get an API Key from OpenWeatherMap**:
 
    - Sign up at [OpenWeatherMap](https://www.weatherapi.com) and generate an API key.
-   - Replace `YOUR_API_KEY` in the `.env` file with your generated API key.
+
 
 
 
